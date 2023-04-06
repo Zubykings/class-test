@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    margin: auto;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25%;
+    /* width: 22px; */
+}
+.logo img{
+    width: 25px;
+    background: whitesmoke;
+    border-radius: 8px;
+}
+.logo h6{
+    font-size: 12px;
+    margin-top: auto;
+}
+.logo .bi-list{
+    font-size: 25px;
+    margin-right: -30%;
+}
+.header{
+    height: 150vh;
+    width: 300px;
+    position: relative;
+}
+.dasboard{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nav{
+    position: absolute;
+}
+nav ul li {
+    list-style: none;
+    display: flex;
+    margin: auto;
+    padding: 7%;
+    width: 150px;
+}
+nav ul li p{
+    width: 40px;
+    /* margin-left: 50px; */
+    position: absolute;
+    right: -20%;
+    text-align: center;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 10px;
+}
+nav ul li i{
+    color: #8d8686;
+    display: inline-block;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
